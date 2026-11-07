@@ -1,6 +1,6 @@
 cask "thats-it" do
-  version "0.3.0"
-  sha256 "06be53b986bf33aed2a565a8ead15e94d683a30729ece81b60e23703128cd35f"
+  version "0.4.0"
+  sha256 "bbd2a7cc5436c04f75e680776ff1a9cc4d5a128f994baf4688713700a5ac808e"
 
   url "https://github.com/federicosimoni/thats-it/releases/download/v#{version}/Thats-it-#{version}.dmg"
   name "That's it"
